@@ -16,3 +16,4 @@
 // Improve error handling for missing nodes 1755181142
 // Add multiple route suggestions 1755181142
 // Add shortest path visualization 1755181142
+// Optimize Dijkstra implementation 1755181142
