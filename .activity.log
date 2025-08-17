@@ -48,3 +48,4 @@
 // Fix distance calculation rounding 1755440187
 // Refactor location data parsing 1755440187
 // Add shortest path visualization 1755440187
+// Improve CLI output formatting 1755440187
