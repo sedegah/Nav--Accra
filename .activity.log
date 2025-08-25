@@ -93,3 +93,4 @@
 // Update map data 1756044911
 // Refactor location data parsing 1756131554
 // Improve error handling for missing nodes 1756131554
+// Fix distance calculation rounding 1756131554
