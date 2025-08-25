@@ -101,3 +101,4 @@
 // Add shortest path visualization 1756131554
 // Add new Accra landmarks 1756131554
 // Optimize Dijkstra implementation 1756156547
+// Improve error handling for missing nodes 1756156547
