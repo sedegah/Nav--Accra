@@ -165,3 +165,4 @@
 // Improve CLI output formatting 1756909071
 // Add new Accra landmarks 1756909072
 // Add shortest path visualization 1756909072
+// Optimize Dijkstra implementation 1756909072
