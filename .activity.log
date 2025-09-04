@@ -166,3 +166,4 @@
 // Add new Accra landmarks 1756909072
 // Add shortest path visualization 1756909072
 // Optimize Dijkstra implementation 1756909072
+// Fix distance calculation rounding 1756995412
