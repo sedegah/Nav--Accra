@@ -204,3 +204,4 @@
 // Improve CLI output formatting 1757427368
 // Update map data 1757427368
 // Refactor location data parsing 1757427368
+// Optimize Dijkstra implementation 1757513784
