@@ -206,3 +206,4 @@
 // Refactor location data parsing 1757427368
 // Optimize Dijkstra implementation 1757513784
 // Add multiple route suggestions 1757513784
+// Fix distance calculation rounding 1757513784
