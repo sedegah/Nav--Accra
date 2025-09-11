@@ -209,3 +209,4 @@
 // Fix distance calculation rounding 1757513784
 // Add shortest path visualization 1757513784
 // Fix distance calculation rounding 1757600265
+// Optimize Dijkstra implementation 1757600265
