@@ -220,3 +220,4 @@
 // Improve CLI output formatting 1757686607
 // Refactor location data parsing 1757686607
 // Optimize Dijkstra implementation 1757686607
+// Fix distance calculation rounding 1757686607
