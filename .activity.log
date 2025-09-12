@@ -219,3 +219,4 @@
 // Add shortest path visualization 1757686607
 // Improve CLI output formatting 1757686607
 // Refactor location data parsing 1757686607
+// Optimize Dijkstra implementation 1757686607
