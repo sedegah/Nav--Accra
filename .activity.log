@@ -217,3 +217,4 @@
 // Improve error handling for missing nodes 1757686607
 // Add new Accra landmarks 1757686607
 // Add shortest path visualization 1757686607
+// Improve CLI output formatting 1757686607
