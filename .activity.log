@@ -230,3 +230,4 @@
 // Improve CLI output formatting 1757859236
 // Improve CLI output formatting 1757859236
 // Fix distance calculation rounding 1757859236
+// Refactor location data parsing 1757859236
