@@ -261,3 +261,4 @@
 // Enhance search performance 1758291420
 // Refactor location data parsing 1758377667
 // Optimize Dijkstra implementation 1758377667
+// Fix distance calculation rounding 1758377667
