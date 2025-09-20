@@ -265,3 +265,4 @@
 // Improve CLI output formatting 1758377667
 // Improve CLI output formatting 1758377667
 // Add multiple route suggestions 1758377668
+// Improve error handling for missing nodes 1758377668
